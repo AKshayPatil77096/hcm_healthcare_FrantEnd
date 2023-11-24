@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "room_category_id": "1",
+      "room_category_name": [
+        "ac"
+      ],
+      "service_provider": "lkjdlksa",
+      "id": 1
+    }
+  ]
+}
